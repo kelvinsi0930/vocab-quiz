@@ -1,0 +1,6 @@
+apple,蘋果
+book,書
+dog,狗
+house,房子
+computer,電腦
+school,學校
