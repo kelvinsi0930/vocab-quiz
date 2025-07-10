@@ -14,5 +14,10 @@
 ```bash
 python main.py
 
-### great
+## 📁 自訂單字資料
 
+你可以自行編輯專案中的 `vocab.txt`，加入更多單字，每行格式如下：
+
+英文單字,中文解釋
+apple,蘋果
+book,書
